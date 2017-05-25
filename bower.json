@@ -1,5 +1,32 @@
 {
   "name": "angular-relative-date",
-  "version": "0.0.1",
-  "main": "dist/angular-relative-date.min.js"
+  "homepage": "https://github.com/arizawan/angular-relative-date",
+  "version": "2.1.0",
+  "_release": "2.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.1.0",
+    "commit": "60490d768d7cb7b8de0b36bc48acc2c36962d220"
+  },
+  "_source": "https://github.com/wildlyinaccurate/angular-relative-date.git",
+  "_target": "^2.1.0",
+  "_originalSource": "angular-relative-date",
+  "_direct": true,
+  "authors": [
+    "Ahmed Rizawan <ahm.rizawan@gmail.com>"
+  ],
+  "description": "",
+  "main": "dist/angular-relative-date.min.js",
+  "keywords": [
+    "angular",
+    "data"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
