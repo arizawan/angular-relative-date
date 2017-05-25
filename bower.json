@@ -16,7 +16,7 @@
     "Ahmed Rizawan <ahm.rizawan@gmail.com>"
   ],
   "description": "",
-  "main": "dist/angular-relative-date.min.js",
+  "main": "dist/angular-relative-date.js",
   "keywords": [
     "angular",
     "data"
